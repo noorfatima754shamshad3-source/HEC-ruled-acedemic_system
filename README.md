@@ -101,3 +101,6 @@ Unlike simple GPA calculators, this is a complete academic management tool that 
 
 ---
 
+=> tasks.json tells VS Code how to compile/build your code.
+=> launch.json tells VS Code how to run and debug your program.
+
